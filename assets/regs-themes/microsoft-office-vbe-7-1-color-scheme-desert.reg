@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; VBE 7.1 color scheme
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\VBA\7.1\Common]
+"CodeBackColors"="2 7 1 13 15 2 2 2 11 9 0 0 0 0 0 0 "
+"CodeForeColors"="13 5 12 1 6 15 8 5 1 1 0 0 0 0 0 0 "

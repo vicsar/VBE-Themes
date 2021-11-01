@@ -1,0 +1,33 @@
+C:\Users\vicsar\source\repos\VBE Themes\bin\Debug\VBE Themes.exe.config
+C:\Users\vicsar\source\repos\VBE Themes\bin\Debug\VBE Themes.exe
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE_Themes.frmAbout.resources
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE_Themes.frmMain.resources
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE_Themes.Properties.Resources.resources
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE Themes.csproj.GenerateResource.cache
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE Themes.csproj.CoreCompileInputs.cache
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE Themes.exe
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE Themes.pdb
+C:\Users\vicsar\source\repos\VBE Themes\bin\Debug\VBE Themes.pdb
+C:\Users\vicsar\source\repos\VBE Themes\obj\Debug\VBE Themes.csprojAssemblyReference.cache
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.exe.config
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.exe
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.pdb
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.frmAbout.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.frmMain.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.Properties.Resources.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csproj.GenerateResource.cache
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csproj.CoreCompileInputs.cache
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.exe
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.pdb
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csprojAssemblyReference.cache
+a:\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.exe.config
+a:\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.exe
+a:\web-and-software-development\programming-projects\VBE Themes\bin\Debug\VBE Themes.pdb
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csprojAssemblyReference.cache
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.frmAbout.resources
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.frmMain.resources
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE_Themes.Properties.Resources.resources
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csproj.GenerateResource.cache
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.csproj.CoreCompileInputs.cache
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.exe
+a:\web-and-software-development\programming-projects\VBE Themes\obj\Debug\VBE Themes.pdb

@@ -1,0 +1,21 @@
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Release\VBE Themes.exe.config
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Release\VBE Themes.exe
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\bin\Release\VBE Themes.pdb
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBEThemes.frmAbout.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBEThemes.frmMain.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBEThemes.Properties.Resources.resources
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBEThemes.csproj.GenerateResource.cache
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBEThemes.csproj.CoreCompileInputs.cache
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBE Themes.exe
+C:\Users\vicsar\Google Drive\web-and-software-development\programming-projects\VBE Themes\obj\Release\VBE Themes.pdb
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\bin\Release\VBE Themes.exe.config
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\bin\Release\VBE Themes.exe
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\bin\Release\VBE Themes.pdb
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.FrmAbout.resources
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.FrmMain.resources
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.Properties.Resources.resources
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.csproj.GenerateResource.cache
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.csproj.CoreCompileInputs.cache
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBE Themes.exe
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBE Themes.pdb
+A:\.vicsar\Google Drive\web-and-software-development\programming-projects\VBETheme\obj\Release\VBEThemes.csproj.AssemblyReference.cache
